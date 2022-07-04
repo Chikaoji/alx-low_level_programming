@@ -1,1 +1,1 @@
-My variable operation i
+My operation  arithematic
